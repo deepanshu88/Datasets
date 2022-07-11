@@ -1,0 +1,359 @@
+id,stationID,longitude,latitude,live,avg,cityID,stateID
+site_5331,"Kariavattom, Thiruvananthapuram - Kerala PCB",76.8865,8.5637,FALSE,,Thiruvananthapuram,Kerala
+site_252,"Plammoodu, Thiruvananthapuram - Kerala PCB",76.9435879,8.5149093,TRUE,20,Thiruvananthapuram,Kerala
+site_5272,"Kacheripady, Ernakulam - Kerala PCB",76.281342,9.985653,TRUE,27,Ernakulam,Kerala
+site_5276,"Thavakkara, Kannur - Kerala PCB",75.3732,11.875,TRUE,56,Kannur,Kerala
+site_5334,"Polayathode, Kollam - Kerala PCB",76.6073,8.8787,TRUE,54,Kollam,Kerala
+site_5271,"Palayam, Kozhikode - Kerala PCB",75.784371,11.249077,TRUE,70,Kozhikode,Kerala
+site_5105,"Udyogamandal, Eloor - Kerala PCB",76.302765,10.073232,FALSE,,Eloor,Kerala
+site_5270,"Vyttila, Kochi - Kerala PCB",76.321186,9.969447,TRUE,40,Kochi,Kerala
+site_5390,"Corporation Ground, Thrissur - Kerala PCB",76.2159,10.5324,FALSE,,Thrissur,Kerala
+site_1403,"Sector-D Industrial Area, Mandideep - MPPCB",77.511428,23.10844,TRUE,29,Mandideep,Madhya Pradesh
+site_5068,"Sahilara, Maihar - KJS Cements",80.7231783,24.2613009,FALSE,,Maihar,Madhya Pradesh
+site_1404,"Bhopal Chauraha, Dewas - MPPCB",76.064118,22.9682591,TRUE,35,Dewas,Madhya Pradesh
+site_5247,"T T Nagar, Bhopal - MPPCB",77.400574,23.233584,TRUE,35,Bhopal,Madhya Pradesh
+site_5040,"Shrivastav Colony, Damoh - MPPCB",79.446246,23.81748678,TRUE,38,Damoh,Madhya Pradesh
+site_5273,"City Center, Gwalior - MPPCB",78.193251,26.203442,TRUE,37,Gwalior,Madhya Pradesh
+site_5275,"Phool Bagh, Gwalior - Mondelez Ind. Food",78.171,26.210536,FALSE,,Gwalior,Madhya Pradesh
+site_1402,"Sector-2 Industrial Area, Pithampur - MPPCB",75.675238,22.624758,FALSE,,Pithampur,Madhya Pradesh
+site_5269,"Deen Dayal Nagar, Sagar - MPPCB",78.80289321,23.8640158,TRUE,8,Sagar,Madhya Pradesh
+site_1433,"Bandhavgar Colony, Satna - Birla Cement",80.8549414,24.58434363,TRUE,30,Satna,Madhya Pradesh
+site_5249,"Marhatal, Jabalpur - MPPCB",79.932247,23.168606,TRUE,41,Jabalpur,Madhya Pradesh
+site_5042,"Shasthri Nagar, Ratlam - IPCA Lab",75.045981,23.331731,TRUE,25,Ratlam,Madhya Pradesh
+site_1401,"Suryakiran Bhawan NCL, Singrauli - MPPCB",82.64558,24.10897,TRUE,55,Singrauli,Madhya Pradesh
+site_1400,"Mahakaleshwar Temple, Ujjain - MPPCB",75.768218,23.182719,FALSE,,Ujjain,Madhya Pradesh
+site_5248,"Chhoti Gwaltoli, Indore - MPPCB",75.5213,22.431,TRUE,52,Indore,Madhya Pradesh
+site_5250,"Gole Bazar, Katni - MPPCB",80.23284,23.50016,TRUE,56,Katni,Madhya Pradesh
+site_1408,"Talcher Coalfields,Talcher - OSPCB",85.1707021,20.9360711,FALSE,,Talcher,Odisha
+site_1410,"GM Office, Brajrajnagar - OSPCB",83.8396977,21.8004996,TRUE,24,Brajrajnagar,Odisha
+site_271,"Chandrapur, Chandrapur - MPCB",77.6345232,19.645324,TRUE,30,Chandrapur,Maharashtra
+site_295,"MIDC Khutala, Chandrapur - MPCB",79.2337086,19.9775302,TRUE,86,Chandrapur,Maharashtra
+site_5392,"Bandra Kurla Complex, Mumbai - IITM",72.84643,19.053536,TRUE,52,Mumbai,Maharashtra
+site_168,"Bandra, Mumbai - MPCB",72.84614,19.0627,FALSE,,Mumbai,Maharashtra
+site_5400,"Borivali East, Mumbai - IITM",72.86895,19.23241,TRUE,39,Mumbai,Maharashtra
+site_5113,"Borivali East, Mumbai - MPCB",72.8658113,19.2243333,TRUE,30,Mumbai,Maharashtra
+site_5399,"Chakala-Andheri East, Mumbai - IITM",72.86084,19.11074,TRUE,49,Mumbai,Maharashtra
+site_5107,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",72.87462,19.10078,TRUE,57,Mumbai,Maharashtra
+site_5120,"Colaba, Mumbai - MPCB",72.82,18.91,TRUE,59,Mumbai,Maharashtra
+site_5396,"Deonar, Mumbai - IITM",72.923,19.04946,TRUE,37,Mumbai,Maharashtra
+site_5412,"Kandivali East, Mumbai - MPCB",72.8682,19.2058,FALSE,,Mumbai,Maharashtra
+site_5397,"Khindipada-Bhandup West, Mumbai - IITM",72.922099,19.1653323,FALSE,,Mumbai,Maharashtra
+site_5104,"Kurla, Mumbai - MPCB",72.8888,19.0863,FALSE,,Mumbai,Maharashtra
+site_5402,"Malad West, Mumbai - IITM",72.82204,19.19709,TRUE,36,Mumbai,Maharashtra
+site_5394,"Mazgaon, Mumbai - IITM",72.84214,18.96702,TRUE,33,Mumbai,Maharashtra
+site_5413,"Mulund West, Mumbai - MPCB",72.9419,19.175,FALSE,,Mumbai,Maharashtra
+site_5398,"Navy Nagar-Colaba, Mumbai - IITM",72.81332,18.897756,FALSE,,Mumbai,Maharashtra
+site_5112,"Powai, Mumbai - MPCB",72.915056,19.1375,TRUE,36,Mumbai,Maharashtra
+site_5403,"Siddharth Nagar-Worli, Mumbai - IITM",72.813993,19.000083,TRUE,82,Mumbai,Maharashtra
+site_5119,"Sion, Mumbai - MPCB",72.8746,19.047,TRUE,33,Mumbai,Maharashtra
+site_5102,"Vasai West, Mumbai - MPCB",72.8204,19.3832,TRUE,78,Mumbai,Maharashtra
+site_5106,"Vile Parle West, Mumbai - MPCB",72.83622,19.10861,FALSE,,Mumbai,Maharashtra
+site_5115,"Worli, Mumbai - MPCB",72.8128113,18.9936162,TRUE,79,Mumbai,Maharashtra
+site_261,"Airoli, Navi Mumbai - MPCB",72.9986,19.1494,FALSE,,Navi Mumbai,Maharashtra
+site_5114,"Mahape, Navi Mumbai - MPCB",73.008978,19.1135051,TRUE,46,Navi Mumbai,Maharashtra
+site_5103,"Nerul, Navi Mumbai - MPCB",73.01662,19.008751,FALSE,,Navi Mumbai,Maharashtra
+site_5401,"Sector-19A Nerul, Navi Mumbai - IITM",73.0325,19.044,FALSE,,Navi Mumbai,Maharashtra
+site_5405,"Alandi, Pune - IITM",73.892743,18.675076,FALSE,,Pune,Maharashtra
+site_5406,"Bhosari, Pune - IITM",73.848956,18.640051,FALSE,,Pune,Maharashtra
+site_5407,"Hadapsar, Pune - IITM",73.927532,18.501793,FALSE,,Pune,Maharashtra
+site_292,"Karve Road, Pune - MPCB",73.8165527,18.5011743,FALSE,,Pune,Maharashtra
+site_5410,"MIT-Kothrud, Pune - IITM",73.8214883,18.517754,TRUE,27,Pune,Maharashtra
+site_5404,"Mhada Colony, Pune - IITM",73.927715,18.57304,FALSE,,Pune,Maharashtra
+site_5409,"Revenue Colony-Shivajinagar, Pune - IITM",73.849598,18.530085,FALSE,,Pune,Maharashtra
+site_5408,"Transport Nagar-Nigdi, Pune - IITM",73.763966,18.664282,FALSE,,Pune,Maharashtra
+site_303,"Opp GPO Civil Lines, Nagpur - MPCB",79.0517531,21.152875,TRUE,39,Nagpur,Maharashtra
+site_304,"Gangapur Road, Nashik - MPCB",73.7762427,20.0073285,FALSE,,Nashik,Maharashtra
+site_198,"More Chowk Waluj, Aurangabad - MPCB",75.244448,19.8389439,FALSE,,Aurangabad,Maharashtra
+site_5118,"Khadakpada, Kalyan - MPCB",73.142019,19.25292,FALSE,,Kalyan,Maharashtra
+site_302,"Solapur, Solapur - MPCB",75.9063906,17.6599188,TRUE,53,Solapur,Maharashtra
+site_305,"Pimpleshwar Mandir, Thane - MPCB",72.9585188,19.192056,FALSE,,Thane,Maharashtra
+site_5082,"Indirapuram, Ghaziabad - UPPCB",77.358075,28.646233,TRUE,67,Ghaziabad,Uttar Pradesh
+site_5083,"Loni, Ghaziabad - UPPCB",77.278792,28.757294,TRUE,117,Ghaziabad,Uttar Pradesh
+site_5081,"Sanjay Nagar, Ghaziabad - UPPCB",77.453839,28.685382,TRUE,61,Ghaziabad,Uttar Pradesh
+site_144,"Vasundhara, Ghaziabad - UPPCB",77.3572563,28.6603346,TRUE,98,Ghaziabad,Uttar Pradesh
+site_5258,"Ganga Nagar, Meerut - UPPCB",77.7590354,28.999264,TRUE,60,Meerut,Uttar Pradesh
+site_5109,"Jai Bhim Nagar, Meerut - UPPCB",77.7622941,28.9535882,TRUE,59,Meerut,Uttar Pradesh
+site_5257,"Pallavpuram Phase 2, Meerut - UPPCB",77.709723,29.06351,TRUE,64,Meerut,Uttar Pradesh
+site_5460,"B R Ambedkar University, Lucknow - UPPCB",80.927299,26.766433,TRUE,39,Lucknow,Uttar Pradesh
+site_272,"Central School, Lucknow - CPCB",80.9302753,26.8821003,TRUE,88,Lucknow,Uttar Pradesh
+site_5128,"Gomti Nagar, Lucknow - UPPCB",81.005119,26.86812,TRUE,52,Lucknow,Uttar Pradesh
+site_5462,"Kukrail Picnic Spot-1, Lucknow - UPPCB",80.98579,26.90723,TRUE,66,Lucknow,Uttar Pradesh
+site_277,"Lalbagh, Lucknow - CPCB",80.9365541,26.8458805,TRUE,66,Lucknow,Uttar Pradesh
+site_297,"Talkatora District Industries Center, Lucknow - CPCB",80.8917361,26.83399722,TRUE,90,Lucknow,Uttar Pradesh
+site_1541,"Knowledge Park - III, Greater Noida - UPPCB",77.482,28.47272,FALSE,,Greater Noida,Uttar Pradesh
+site_5121,"Knowledge Park - V, Greater Noida - UPPCB",77.453663,28.557054,TRUE,97,Greater Noida,Uttar Pradesh
+site_5500,"FTI Kidwai Nagar, Kanpur - UPPCB",80.327067,26.428282,TRUE,46,Kanpur,Uttar Pradesh
+site_5416,"IITK, Kanpur - IITK",80.235136,26.511739,TRUE,36,Kanpur,Uttar Pradesh
+site_5474,"NSI Kalyanpur, Kanpur - UPPCB",80.249612,26.509954,TRUE,44,Kanpur,Uttar Pradesh
+site_276,"Nehru Nagar, Kanpur - UPPCB",80.3229863,26.4703136,TRUE,56,Kanpur,Uttar Pradesh
+site_5464,"Manoharpur, Agra - UPPCB",78.01936,27.23711,TRUE,37,Agra,Uttar Pradesh
+site_5482,"Rohta, Agra - UPPCB",78.000111,27.106972,TRUE,80,Agra,Uttar Pradesh
+site_307,"Sanjay Palace, Agra - UPPCB",78.00598056,27.19865833,TRUE,67,Agra,Uttar Pradesh
+site_5465,"Sector-3B Avas Vikas Colony, Agra - UPPCB",77.96237,27.19412,TRUE,34,Agra,Uttar Pradesh
+site_5501,"Shahjahan Garden, Agra - UPPCB",78.03582,27.169338,TRUE,42,Agra,Uttar Pradesh
+site_5463,"Shastripuram, Agra - UPPCB",77.92066,27.19862,TRUE,50,Agra,Uttar Pradesh
+site_5554,"Buddhi Vihar, Moradabad - UPPCB",78.7446,28.83526,FALSE,,Moradabad,Uttar Pradesh
+site_5556,"Eco Herbal Park, Moradabad - UPPCB",78.697531,28.840739,TRUE,66,Moradabad,Uttar Pradesh
+site_5537,"Employment Office, Moradabad - UPPCB",78.7388,28.88528,TRUE,62,Moradabad,Uttar Pradesh
+site_5555,"Jigar Colony, Moradabad - UPPCB",78.772638,28.856664,TRUE,64,Moradabad,Uttar Pradesh
+site_5620,"Kashiram Nagar, Moradabad - UPPCB",78.742362,28.849399,TRUE,59,Moradabad,Uttar Pradesh
+site_1398,"Lajpat Nagar, Moradabad - UPPCB",78.7213009,28.825341,FALSE,,Moradabad,Uttar Pradesh
+site_5613,"Transport Nagar, Moradabad - UPPCB",78.753728,28.802625,TRUE,90,Moradabad,Uttar Pradesh
+site_1542,"Yamunapuram, Bulandshahr - UPPCB",77.849831,28.406963,TRUE,93,Bulandshahr,Uttar Pradesh
+site_153,"Sector - 125, Noida - UPPCB",77.3231257,28.5447608,TRUE,87,Noida,Uttar Pradesh
+site_111,"Sector - 62, Noida - IMD",77.3577104,28.6245479,TRUE,87,Noida,Uttar Pradesh
+site_5123,"Sector-1, Noida - UPPCB",77.3101,28.5898,FALSE,,Noida,Uttar Pradesh
+site_5122,"Sector-116, Noida - UPPCB",77.393848,28.56923,TRUE,86,Noida,Uttar Pradesh
+site_273,"Ardhali Bazar, Varanasi - UPPCB",82.9083074,25.3505986,TRUE,24,Varanasi,Uttar Pradesh
+site_5469,"Bhelupur, Varanasi - UPPCB",82.996789,25.301778,TRUE,57,Varanasi,Uttar Pradesh
+site_5468,"IESD Banaras Hindu University, Varanasi - UPPCB",82.995408,25.262326,TRUE,33,Varanasi,Uttar Pradesh
+site_5475,"Maldahiya, Varanasi - UPPCB",82.99687,25.32393,TRUE,59,Varanasi,Uttar Pradesh
+site_5583,"Shivaji Nagar, Jhansi - UPPCB",78.6039,25.4547,FALSE,,Jhansi,Uttar Pradesh
+site_1550,"New Mandi, Muzaffarnagar - UPPCB",77.7194031,29.4723508,TRUE,80,Muzaffarnagar,Uttar Pradesh
+site_5603,"Kalindi Kunj, Khurja - UPPCB",77.8683002,28.2348927,TRUE,35,Khurja,Uttar Pradesh
+site_5461,"Jhunsi, Prayagraj - UPPCB",81.917152,25.425602,TRUE,115,Prayagraj,Uttar Pradesh
+site_5459,"Motilal Nehru NIT, Prayagraj - UPPCB",81.863,25.494,TRUE,46,Prayagraj,Uttar Pradesh
+site_5484,"Nagar Nigam, Prayagraj - UPPCB",81.82735986,25.44919916,TRUE,73,Prayagraj,Uttar Pradesh
+site_5480,"Nagla Bhau, Firozabad - UPPCB",78.37696,27.168897,TRUE,26,Firozabad,Uttar Pradesh
+site_5584,"Vibhab Nagar, Firozabad - UPPCB",78.3953,27.1594,TRUE,62,Firozabad,Uttar Pradesh
+site_5601,"Rajendra Nagar, Bareilly - UPPCB",79.42963708,28.38910936,FALSE,,Bareilly,Uttar Pradesh
+site_5023,"Anand Vihar, Hapur - UPPCB",77.749675,28.725645,TRUE,73,Hapur,Uttar Pradesh
+site_5472,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",83.433859,26.730136,TRUE,19,Gorakhpur,Uttar Pradesh
+site_1569,"New Collectorate, Baghpat - UPPCB",77.213357,28.974801,FALSE,,Baghpat,Uttar Pradesh
+site_5585,"Sardar Patel Inter College, Baghpat - UPPCB",77.278761,28.964949,TRUE,37,Baghpat,Uttar Pradesh
+site_5483,"Omex Eternity, Vrindavan - UPPCB",77.655757,27.571409,TRUE,45,Vrindavan,Uttar Pradesh
+site_5049,"Sector-12, Karnal - HSPCB",77.0027,29.6953,TRUE,54,Karnal,Haryana
+site_5056,"Police Lines, Jind - HSPCB",76.337619,29.307814,TRUE,77,Jind,Haryana
+site_5051,"F-Block, Sirsa - HSPCB",75.0158,29.5364,TRUE,72,Sirsa,Haryana
+site_5340,"New Industrial Town, Faridabad - HSPCB",77.30059,28.39072,TRUE,146,Faridabad,Haryana
+site_5342,"Sector 11, Faridabad - HSPCB",77.315741,28.376058,TRUE,110,Faridabad,Haryana
+site_5341,"Sector 30, Faridabad - HSPCB",77.3217,28.4417,TRUE,83,Faridabad,Haryana
+site_263,"Sector- 16A, Faridabad - HSPCB",77.3099081,28.4088421,FALSE,,Faridabad,Haryana
+site_5025,"NISE Gwal Pahari, Gurugram - IMD",77.148944,28.422681,TRUE,83,Gurugram,Haryana
+site_5345,"Sector-51, Gurugram - HSPCB",77.0667,28.4227,TRUE,107,Gurugram,Haryana
+site_5344,"Teri Gram, Gurugram - HSPCB",77.1465,28.4275,TRUE,110,Gurugram,Haryana
+site_146,"Vikas Sadan, Gurugram - HSPCB",77.0263051,28.4501238,FALSE,,Gurugram,Haryana
+site_5044,"Municipal Corporation Office, Dharuhera -  HSPCB",76.7997,28.2068,FALSE,,Dharuhera,Haryana
+site_5057,"Urban Estate-II, Hisar - HSPCB",75.744941,29.14056,TRUE,111,Hisar,Haryana
+site_5045,"Arya Nagar, Bahadurgarh - HSPCB",76.9254,28.6701,TRUE,95,Bahadurgarh,Haryana
+site_5052,"Patti Mehar, Ambala - HSPCB",76.778328,30.379589,TRUE,56,Ambala,Haryana
+site_5048,"Sector-18, Panipat - HSPCB",76.993331,29.497973,TRUE,73,Panipat,Haryana
+site_5043,"Sector-7, Kurukshetra - HSPCB",76.875879,29.966942,TRUE,80,Kurukshetra ,Haryana
+site_5055,"General Hospital, Mandikhera - HSPCB",76.9938,27.9002,TRUE,51,Mandikhera,Haryana
+site_5050,"Shyam Nagar, Palwal - HSPCB",77.3320667,28.1485564,TRUE,75,Palwal ,Haryana
+site_5339,"Mini Secretariat, Charkhi Dadri - HSPCB",76.270653,28.593883,TRUE,127,Charkhi Dadri,Haryana
+site_5047,"H.B. Colony, Bhiwani - HSPCB",76.141105,28.806223,TRUE,79,Bhiwani,Haryana
+site_5054,"Huda Sector, Fatehabad - HSPCB",75.467934,29.503664,FALSE,,Fatehabad,Haryana
+site_147,"MD University, Rohtak - HSPCB",76.37138,28.52123,TRUE,64,Rohtak,Haryana
+site_161,"Sector-6, Panchkula - HSPCB ",76.85318056,30.7057778,TRUE,28,Panchkula,Haryana
+site_5053,"Shastri Nagar, Narnaul - HSPCB",76.113115,28.060249,TRUE,46,Narnaul,Haryana
+site_5072,"Rishi Nagar, Kaithal - HSPCB",76.4155,29.8006,TRUE,67,Kaithal,Haryana
+site_5041,"Murthal, Sonipat - HSPCB",77.0621,29.0272,FALSE,,Sonipat,Haryana
+site_5039,"Sector-2 IMT, Manesar - HSPCB",76.93609,28.360699,TRUE,98,Manesar,Haryana
+site_5046,"Gobind Pura, Yamuna Nagar - HSPCB",77.2893471,30.1480566,TRUE,129,Yamuna Nagar,Haryana
+site_5060,"Nathu Colony, Ballabgarh - HSPCB",77.319699,28.3419248,TRUE,72,Ballabgarh,Haryana
+site_5265,"Kalyana Nagara, Chikkamagaluru - KSPCB",75.797056,13.328028,TRUE,39,Chikkamagaluru,Karnataka
+site_162,"BTM Layout, Bengaluru - CPCB",77.5950804,12.9135218,TRUE,96,Bengaluru,Karnataka
+site_164,"BWSSB Kadabesanahalli, Bengaluru - CPCB",77.6814488,12.9352049,FALSE,,Bengaluru,Karnataka
+site_1553,"Bapuji Nagar, Bengaluru - KSPCB",77.539784,12.951913,TRUE,34,Bengaluru,Karnataka
+site_165,"City Railway Station, Bengaluru - KSPCB",77.5660749,12.9756843,TRUE,92,Bengaluru,Karnataka
+site_1554,"Hebbal, Bengaluru - KSPCB",77.585901,13.029152,TRUE,34,Bengaluru,Karnataka
+site_1555,"Hombegowda Nagar, Bengaluru - KSPCB",77.5901,12.938539,TRUE,16,Bengaluru,Karnataka
+site_1556,"Jayanagar 5th Block, Bengaluru - KSPCB",77.584908,12.920984,TRUE,34,Bengaluru,Karnataka
+site_163,"Peenya, Bengaluru - CPCB",77.494094,13.0270199,FALSE,,Bengaluru,Karnataka
+site_166,"Sanegurava Halli, Bengaluru - KSPCB",77.5431385,12.990328,FALSE,,Bengaluru,Karnataka
+site_1558,"Silk Board, Bengaluru - KSPCB",77.622813,12.917348,TRUE,71,Bengaluru,Karnataka
+site_5448,"B.Katihalli, Hassan - KSPCB",76.125258,13.008556,TRUE,28,Hassan,Karnataka
+site_5266,"Vinoba Nagara, Shivamogga - KSPCB",75.555917,13.94,TRUE,50,Shivamogga,Karnataka
+site_1447,"Deshpande Nagar, Hubballi - KSPCB",75.140726,15.351773,TRUE,17,Hubballi,Karnataka
+site_5254,"Collector Office, Yadgir - KSPCB",77.1428,16.7602,TRUE,23,Yadgir,Karnataka
+site_5418,"Naubad, Bidar - KSPCB",77.482194,17.930306,FALSE,,Bidar,Karnataka
+site_5420,"Ashwini Nagar, Haveri - KSPCB",75.3896,14.7918,TRUE,14,Haveri,Karnataka
+site_5125,"Hebbal 1st Stage, Mysuru - KSPCB",76.37376,12.21041,TRUE,42,Mysuru,Karnataka
+site_5264,"Vidayagiri, Bagalkot - KSPCB",75.659694,16.172806,TRUE,46,Bagalkot,Karnataka
+site_1565,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",76.822628,17.321993,TRUE,31,Kalaburagi,Karnataka
+site_5391,"Stuart Hill, Madikeri - KSPCB",75.73505,12.415911,TRUE,11,Madikeri,Karnataka
+site_5124,"Urban, Chamarajanagar - KSPCB",76.55521,11.55358,TRUE,34,Chamarajanagar,Karnataka
+site_5422,"Devaraj Urs Badavane, Davanagere - KSPCB",75.9052,14.4758,TRUE,11,Davanagere,Karnataka
+site_5415,"Diwator Nagar, Koppal - KSPCB",76.181767,15.34763,TRUE,22,Koppal,Karnataka
+site_1557,"Chikkaballapur Rural, Chikkaballapur - KSPCB",77.731418,13.428828,TRUE,26,Chikkaballapur,Karnataka
+site_5267,"Ibrahimpur, Vijayapura - KSPCB",75.722694,16.802639,TRUE,49,Vijayapura,Karnataka
+site_5255,"Vijay Nagar, Ramanagara - KSPCB",77.298051,12.733409,TRUE,36,Ramanagara,Karnataka
+site_5421,"Kadri, Mangalore - KSPCB",74.853,12.88925,TRUE,13,Mangalore,Karnataka
+site_5433,"Brahmagiri, Udupi - KSPCB",74.74694444,13.34194444,FALSE,,Udupi,Karnataka
+site_5419,"Panchal Nagar, Gadag - KSPCB",75.638133,15.411456,TRUE,13,Gadag,Karnataka
+site_5414,"Haji Colony, Raichur - KSPCB",77.348417,16.208139,TRUE,25,Raichur,Karnataka
+site_1551,"Tamaka Ind. Area, Kolar - KSPCB",78.1570122,13.1276288,FALSE,,Kolar,Karnataka
+site_1395,"Indira Colony Vistar, Pali - RSPCB",73.340227,25.771061,TRUE,46,Pali,Rajasthan
+site_1390,"Moti Doongri, Alwar - RSPCB",76.611536,27.554793,TRUE,64,Alwar,Rajasthan
+site_1393,"Adarsh Nagar, Jaipur - RSPCB",75.836858,26.902909,TRUE,34,Jaipur,Rajasthan
+site_134,"Police Commissionerate, Jaipur - RSPCB",75.7994901,26.9164092,TRUE,67,Jaipur,Rajasthan
+site_1396,"Shastri Nagar, Jaipur - RSPCB",75.730943,26.9502929,TRUE,54,Jaipur,Rajasthan
+site_1391,"RIICO Ind. Area III, Bhiwadi - RSPCB",76.862296,28.194909,TRUE,107,Bhiwadi,Rajasthan
+site_1394,"Shrinath Puram, Kota - RSPCB",75.821256,25.14389,TRUE,52,Kota,Rajasthan
+site_136,"Collectorate, Jodhpur - RSPCB",73.0193853,26.268249,TRUE,79,Jodhpur,Rajasthan
+site_1392,"Civil Lines,  Ajmer - RSPCB",74.646594,26.470859,TRUE,97,Ajmer,Rajasthan
+site_1397,"Ashok Nagar, Udaipur - RSPCB",73.6321397,24.5886166,TRUE,88,Udaipur,Rajasthan
+site_5094,"SIDCO Kurichi, Coimbatore - TNPCB",76.978996,10.942451,FALSE,,Coimbatore,Tamil Nadu
+site_293,"Alandur Bus Depot, Chennai - CPCB",80.1076538,12.9099161,TRUE,24,Chennai,Tamil Nadu
+site_5361,"Arumbakkam, Chennai - TNPCB",80.2112,13.0664,TRUE,57,Chennai,Tamil Nadu
+site_5365,"Kodungaiyur, Chennai - TNPCB",80.2642,13.1278,TRUE,60,Chennai,Tamil Nadu
+site_5092,"Manali Village, Chennai - TNPCB",80.2584,13.1662,FALSE,,Chennai,Tamil Nadu
+site_306,"Manali, Chennai - CPCB",80.26285,13.164544,TRUE,47,Chennai,Tamil Nadu
+site_5363,"Perungudi, Chennai - TNPCB",80.2357,12.9533,TRUE,61,Chennai,Tamil Nadu
+site_5364,"Royapuram, Chennai - TNPCB",80.2909,13.1036,TRUE,75,Chennai,Tamil Nadu
+site_288,"Velachery Res. Area, Chennai - CPCB",80.2398125,13.0052189,TRUE,66,Chennai,Tamil Nadu
+site_5367,"Meelavittan, Thoothukudi - TNPCB",78.099039,8.816428,TRUE,42,Thoothukudi,Tamil Nadu
+site_5362,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",80.1081,13.4127,TRUE,15,Gummidipoondi,Tamil Nadu
+site_5453,"Chandkheda, Ahmedabad - IITM",72.574648,23.107969,FALSE,,Ahmedabad,Gujarat
+site_5450,"Gyaspur, Ahmedabad - IITM",72.553024,22.977134,FALSE,,Ahmedabad,Gujarat
+site_308,"Maninagar, Ahmedabad - GPCB",72.591912,23.002657,TRUE,68,Ahmedabad,Gujarat
+site_5452,"Raikhad, Ahmedabad - IITM",72.579261,23.020509,FALSE,,Ahmedabad,Gujarat
+site_5451,"Rakhial, Ahmedabad - IITM",72.625775,23.016834,FALSE,,Ahmedabad,Gujarat
+site_5454,"SAC ISRO Bopal, Ahmedabad - IITM",72.456691,23.041137,FALSE,,Ahmedabad,Gujarat
+site_5455,"SAC ISRO Satellite, Ahmedabad - IITM",72.515201,23.023389,FALSE,,Ahmedabad,Gujarat
+site_5456,"SVPI Airport Hansol, Ahmedabad - IITM",72.627874,23.076793,FALSE,,Ahmedabad,Gujarat
+site_5449,"Sardar Vallabhbhai Patel Stadium, Ahmedabad - IITM",72.562968,23.04307,TRUE,29,Ahmedabad,Gujarat
+site_5071,"Phase-1 GIDC, Vapi - GPCB",72.918013,20.362421,FALSE,,Vapi,Gujarat
+site_5067,"Phase-4 GIDC, Vatva - GPCB",72.6435,22.969611,TRUE,69,Vatva,Gujarat
+site_5458,"GIFT City, Gandhinagar - IITM",72.677768,23.163798,FALSE,,Gandhinagar,Gujarat
+site_5457,"IIPHG Lekawada, Gandhinagar - IITM",72.68994,23.243639,FALSE,,Gandhinagar,Gujarat
+site_5066,"Sector-10, Gandhinagar - GPCB",72.654328,23.221714,TRUE,35,Gandhinagar,Gujarat
+site_5065,"GIDC, Ankleshwar - GPCB",73.010555,21.613267,TRUE,49,Ankleshwar,Gujarat
+site_5274,"GIDC, Nandesari - Nandesari Ind. Association",73.097923,22.410802,FALSE,,Nandesari,Gujarat
+site_5424,"Rajbagh, Srinagar - JKSPCB",74.81982,34.066206,TRUE,64,Srinagar,Jammu and Kashmir
+site_5417,"Pan Bazaar, Guwahati - APCB",91.744194,26.1875,TRUE,31,Guwahati,Assam
+site_5073,"Railway Colony, Guwahati - APCB",91.78063,26.181742,TRUE,20,Guwahati,Assam
+site_5024,"Alipur, Delhi - DPCC",77.15301,28.815329,FALSE,,Delhi,Delhi
+site_301,"Anand Vihar, Delhi - DPCC",77.315809,28.647622,TRUE,102,Delhi,Delhi
+site_1420,"Ashok Vihar, Delhi - DPCC",77.181665,28.695381,FALSE,,Delhi,Delhi
+site_108,"Aya Nagar, Delhi - IMD",77.1099364,28.4706914,TRUE,87,Delhi,Delhi
+site_1560,"Bawana, Delhi - DPCC",77.051074,28.7762,TRUE,113,Delhi,Delhi
+site_104,"Burari Crossing, Delhi - IMD",77.2011573,28.7256504,FALSE,,Delhi,Delhi
+site_103,"CRRI Mathura Road, Delhi - IMD",77.2735737,28.5512005,TRUE,74,Delhi,Delhi
+site_5393,"Chandni Chowk, Delhi - IITM",77.227234,28.656756,TRUE,98,Delhi,Delhi
+site_118,"DTU, Delhi - CPCB",77.1112615,28.7500499,TRUE,91,Delhi,Delhi
+site_1421,"Dr. Karni Singh Shooting Range, Delhi - DPCC",77.26484,28.498571,TRUE,59,Delhi,Delhi
+site_1422,"Dwarka-Sector 8, Delhi - DPCC ",77.0719006,28.5710274,TRUE,104,Delhi,Delhi
+site_106,"IGI Airport (T3), Delhi - IMD",77.1180053,28.5627763,TRUE,96,Delhi,Delhi
+site_114,"IHBAS, Dilshad Garden, Delhi - CPCB",77.3025234,28.6811736,TRUE,116,Delhi,Delhi
+site_117,"ITO, Delhi - CPCB",77.24106,28.628624,TRUE,84,Delhi,Delhi
+site_1423,"Jahangirpuri, Delhi - DPCC",77.170633,28.73282,FALSE,,Delhi,Delhi
+site_1424,"Jawaharlal Nehru Stadium, Delhi - DPCC",77.233829,28.58028,TRUE,94,Delhi,Delhi
+site_5395,"Lodhi Road, Delhi - IITM",77.221667,28.588333,FALSE,,Delhi,Delhi
+site_109,"Lodhi Road, Delhi - IMD",77.2273074,28.5918245,TRUE,76,Delhi,Delhi
+site_1425,"Major Dhyan Chand National Stadium, Delhi - DPCC",77.237738,28.611281,TRUE,98,Delhi,Delhi
+site_122,"Mandir Marg, Delhi - DPCC",77.201067,28.636429,FALSE,,Delhi,Delhi
+site_1561,"Mundka, Delhi - DPCC",77.076574,28.684678,TRUE,107,Delhi,Delhi
+site_115,"NSIT Dwarka, Delhi - CPCB",77.0325413,28.60909,TRUE,83,Delhi,Delhi
+site_1427,"Najafgarh, Delhi - DPCC",76.933762,28.570173,FALSE,,Delhi,Delhi
+site_1426,"Narela, Delhi - DPCC",77.101981,28.822836,TRUE,118,Delhi,Delhi
+site_1429,"Nehru Nagar, Delhi - DPCC",77.250515,28.56789,TRUE,81,Delhi,Delhi
+site_105,"North Campus, DU, Delhi - IMD",77.1585447,28.6573814,FALSE,,Delhi,Delhi
+site_1428,"Okhla Phase-2, Delhi - DPCC",77.271255,28.530785,TRUE,91,Delhi,Delhi
+site_1431,"Patparganj, Delhi - DPCC",77.287209,28.623763,TRUE,104,Delhi,Delhi
+site_125,"Punjabi Bagh, Delhi - DPCC",77.131023,28.674045,TRUE,130,Delhi,Delhi
+site_1563,"Pusa, Delhi - DPCC",77.146262,28.639645,TRUE,72,Delhi,Delhi
+site_107,"Pusa, Delhi - IMD",77.146263,28.639645,TRUE,64,Delhi,Delhi
+site_124,"R K Puram, Delhi - DPCC",77.186937,28.563262,TRUE,88,Delhi,Delhi
+site_1430,"Rohini, Delhi - DPCC",77.11992,28.732528,FALSE,,Delhi,Delhi
+site_113,"Shadipur, Delhi - CPCB",77.1473105,28.6514781,TRUE,97,Delhi,Delhi
+site_119,"Sirifort, Delhi - CPCB",77.2159377,28.5504249,TRUE,92,Delhi,Delhi
+site_1432,"Sonia Vihar, Delhi - DPCC",77.249485,28.710508,TRUE,107,Delhi,Delhi
+site_1562,"Sri Aurobindo Marg, Delhi - DPCC",77.190156,28.531346,TRUE,79,Delhi,Delhi
+site_1435,"Vivek Vihar, Delhi - DPCC",77.31526,28.672342,TRUE,102,Delhi,Delhi
+site_1434,"Wazirpur, Delhi - DPCC",77.165453,28.699793,TRUE,161,Delhi,Delhi
+site_5587,"Bardowali, Agartala - Tripura SPCB",91.2726974,23.8175497,TRUE,42,Agartala,Tripura
+site_5377,"Kunjaban, Agartala - Tripura SPCB",91.2887362,23.8628276,TRUE,31,Agartala,Tripura
+site_5336,"DRM Office Danapur, Patna - BSPCB",85.043586,25.586562,TRUE,114,Patna,Bihar
+site_5335,"Govt. High School Shikarpur, Patna - BSPCB",85.227158,25.592539,TRUE,152,Patna,Bihar
+site_157,"IGSC Planetarium Complex, Patna - BSPCB",85.1376,25.5941,TRUE,55,Patna,Bihar
+site_5261,"Muradpur, Patna - BSPCB",85.147382,25.619651,TRUE,70,Patna,Bihar
+site_5262,"Rajbansi Nagar, Patna - BSPCB",85.113666,25.599486,TRUE,65,Patna,Bihar
+site_5263,"Samanpura, Patna - BSPCB",85.085624,25.596727,FALSE,,Patna,Bihar
+site_5370,"Buddha Colony, Muzaffarpur - BSPCB",85.39813,26.11442,TRUE,87,Muzaffarpur,Bihar
+site_5479,"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",85.3650192,26.1403345,TRUE,76,Muzaffarpur,Bihar
+site_158,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",85.3647,26.1209,TRUE,56,Muzaffarpur,Bihar
+site_5544,"Gurdeo Nagar, Aurangabad - BSPCB",84.366208,24.75746,TRUE,85,AurangabadB,Bihar
+site_5551,"Police Line, Saharsa - BSPCB",86.590325,25.892357,TRUE,124,Saharsa,Bihar
+site_5549,"Mariam Nagar, Purnia - BSPCB",87.117468,25.366336,TRUE,91,Purnia,Bihar
+site_5481,"D M Colony, Bihar Sharif - BSPCB",85.51496,25.204762,TRUE,171,Bihar Sharif,Bihar
+site_5540,"DRCC Anandpur, Begusarai - BSPCB",86.140169,25.444266,FALSE,,Begusarai,Bihar
+site_5545,"Darshan Nagar, Chhapra - BSPCB",84.7446768,25.7808257,TRUE,88,Chhapra,Bihar
+site_5552,"DM Office_Kasipur, Samastipur - BSPCB",85.77944,25.859655,FALSE,,Samastipur,Bihar
+site_5538,"New DM Office, Arrah - BSPCB",84.663264,25.5626095,TRUE,74,Arrah,Bihar
+site_5485,"Dada Peer, Sasaram - BSPCB",84.002396,24.952822,TRUE,46,Sasaram,Bihar
+site_5478,"Gandak Colony, Motihari - BSPCB",84.90051,26.63086,TRUE,58,Motihari,Bihar
+site_159,"Collectorate, Gaya - BSPCB",84.9994,24.7955,TRUE,61,Gaya,Bihar
+site_5548,"Kareemganj, Gaya - BSPCB",84.992416,24.792403,TRUE,122,Gaya,Bihar
+site_5338,"SFTI Kusdihra, Gaya - BSPCB",84.982348,24.762518,TRUE,35,Gaya,Bihar
+site_5543,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",86.989001,25.251013,TRUE,46,Bhagalpur,Bihar
+site_5541,"Mayaganj, Bhagalpur - BSPCB",87.012947,25.265194,TRUE,78,Bhagalpur,Bihar
+site_5550,"Forest Rest House, Manguraha - BSPCB",84.107844,25.357288,FALSE,,Manguraha,Bihar
+site_5477,"Town Hall - Lal Bagh, Darbhanga - BSPCB",85.89342,26.15146,TRUE,117,Darbhanga,Bihar
+site_5547,"SDM Office_Khagra, Kishanganj - BSPCB",87.93840336,26.0881305,TRUE,77,Kishanganj,Bihar
+site_5489,"Dangi Tola, Rajgir - BSPCB",85.41948,25.0328,TRUE,36,Rajgir,Bihar
+site_5542,"Central Jail, Buxar - BSPCB",83.950942,25.555605,TRUE,74,Buxar,Bihar
+site_5476,"Kamalnath Nagar, Bettiah - BSPCB",84.51954,26.80365,FALSE,,Bettiah,Bihar
+site_5490,"Town Hall, Munger - BSPCB",86.471523,25.376776,TRUE,34,Munger,Bihar
+site_5337,"Industrial Area, Hajipur - BSPCB",85.2459,25.697189,TRUE,73,Hajipur,Bihar
+site_5539,"Kharahiya Basti, Araria - BSPCB",87.454184,26.146529,TRUE,55,Araria,Bihar
+site_5546,"Mirchaibari, Katihar - BSPCB",87.553265,25.560083,TRUE,98,Katihar,Bihar
+site_5553,"Chitragupta Nagar, Siwan - BSPCB",84.3570427,26.2271665,TRUE,101,Siwan,Bihar
+site_199,"Bollaram Industrial Area, Hyderabad - TSPCB",78.358528,17.540891,TRUE,53,Hyderabad,Telangana
+site_262,"Central University, Hyderabad - TSPCB",78.334361,17.460103,TRUE,13,Hyderabad,Telangana
+site_5596,"ECIL Kapra, Hyderabad - TSPCB",78.566959,17.470431,FALSE,,Hyderabad,Telangana
+site_251,"ICRISAT Patancheru, Hyderabad - TSPCB",78.278777,17.5184,TRUE,19,Hyderabad,Telangana
+site_275,"IDA Pashamylaram, Hyderabad - TSPCB",78.218939,17.5316895,TRUE,27,Hyderabad,Telangana
+site_5597,"IITH Kandi, Hyderabad - TSPCB",78.126199,17.585705,TRUE,43,Hyderabad,Telangana
+site_5604,"Kokapet, Hyderabad - TSPCB",78.339194,17.393559,TRUE,34,Hyderabad,Telangana
+site_5599,"Kompally Municipal Office, Hyderabad - TSPCB",78.486949,17.544899,TRUE,59,Hyderabad,Telangana
+site_5600,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",78.569354,17.429398,TRUE,37,Hyderabad,Telangana
+site_5595,"New Malakpet, Hyderabad - TSPCB",78.50864,17.37206,TRUE,60,Hyderabad,Telangana
+site_5602,"Ramachandrapuram, Hyderabad - TSPCB",78.286195,17.528544,TRUE,42,Hyderabad,Telangana
+site_294,"Sanathnagar, Hyderabad - TSPCB",78.4332152,17.4559458,TRUE,34,Hyderabad,Telangana
+site_5598,"Somajiguda, Hyderabad - TSPCB",78.457437,17.417094,TRUE,51,Hyderabad,Telangana
+site_298,"Zoo Park, Hyderabad - TSPCB",78.451437,17.349694,TRUE,27,Hyderabad,Telangana
+site_5594,"Doon University, Dehradun - UKPCB",78.044167,30.269444,FALSE,,Dehradun,Uttarakhand
+site_5491,"Sector 22, Chandigarh - CPCC",76.775714,30.735567,TRUE,47,Chandigarh,Chandigarh
+site_5127,"Sector-25, Chandigarh - CPCC",76.762879,30.751462,TRUE,66,Chandigarh,Chandigarh
+site_5582,"Sector-53, Chandigarh - CPCC",76.738637,30.719859,FALSE,,Chandigarh,Chandigarh
+site_5238,"Ballygunge, Kolkata - WBPCB",88.3638022,22.5367507,TRUE,46,Kolkata,West Bengal
+site_5129,"Bidhannagar, Kolkata - WBPCB",88.41002457,22.58157048,TRUE,22,Kolkata,West Bengal
+site_5110,"Fort William, Kolkata - WBPCB",88.342674,22.55664,TRUE,37,Kolkata,West Bengal
+site_5111,"Jadavpur, Kolkata - WBPCB",88.36917,22.49929,TRUE,27,Kolkata,West Bengal
+site_296,"Rabindra Bharati University, Kolkata - WBPCB",88.380669,22.627847,TRUE,52,Kolkata,West Bengal
+site_5126,"Rabindra Sarobar, Kolkata - WBPCB",88.35142,22.51106,TRUE,23,Kolkata,West Bengal
+site_309,"Victoria, Kolkata - WBPCB",88.3403691,22.5448082,TRUE,36,Kolkata,West Bengal
+site_5101,"Belur Math, Howrah - WBPCB",88.352017,22.629801,TRUE,27,Howrah,West Bengal
+site_274,"Ghusuri, Howrah - WBPCB",88.347422,22.611968,TRUE,41,Howrah,West Bengal
+site_1416,"Padmapukur, Howrah - WBPCB",88.2797276,22.5687319,TRUE,27,Howrah,West Bengal
+site_299,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",87.2892225,23.5404352,FALSE,,Durgapur,West Bengal
+site_1419,"Ward-32 Bapupara, Siliguri - WBPCB",88.412668,26.6883049,TRUE,48,Siliguri,West Bengal
+site_1418,"Asansol Court Area, Asansol - WBPCB",86.945968,23.685297,FALSE,,Asansol,West Bengal
+site_300,"Haldia, Haldia - WBPCB",88.109737,22.06047,TRUE,28,Haldia,West Bengal
+site_253,"Punjab Agricultural University, Ludhiana - PPCB",75.8086,30.9028,TRUE,72,Ludhiana,Punjab
+site_256,"Golden Temple, Amritsar - PPCB",74.876512,31.62,TRUE,115,Amritsar,Punjab
+site_1438,"Civil Line, Jalandhar - PPCB",75.578914,31.321907,TRUE,84,Jalandhar,Punjab
+site_1437,"Model Town, Patiala - PPCB",76.366642,30.349388,TRUE,60,Patiala,Punjab
+site_1538,"Ratanpura, Rupnagar - Ambuja Cements",76.5623046,31.0325454,TRUE,140,Rupnagar,Punjab
+site_255,"RIMT University, Mandi Gobindgarh - PPCB",76.331442,30.649961,TRUE,100,Mandi Gobindgarh,Punjab
+site_1549,"Hardev Nagar, Bathinda - PPCB",74.907758,30.233011,TRUE,78,Bathinda,Punjab
+site_1450,"Kalal Majra, Khanna - PPCB",76.209694,30.736056,TRUE,65,Khanna,Punjab
+site_258,"Tirumala, Tirupati - APPCB",79.35,13.67,TRUE,29,Tirupati,Andhra Pradesh
+site_260,"GVM Corporation, Visakhapatnam - APPCB",83.3,17.72,TRUE,91,Visakhapatnam,Andhra Pradesh
+site_1399,"Anand Kala Kshetram, Rajamahendravaram - APPCB",81.7363176,16.9872867,TRUE,27,Rajamahendravaram,Andhra Pradesh
+site_1406,"Secretariat, Amaravati - APPCB",80.5181667,16.5150833,TRUE,14,Amaravati,Andhra Pradesh
+site_5590,"Zero Point GICI, Gangtok - SSPCB",88.614099,27.33853,TRUE,8,Gangtok,Sikkim
+site_5346,"Sikulpuikawn, Aizawl - Mizoram PCB",92.7192841,23.7176342,TRUE,15,Aizawl,Mizoram
+site_5423,"Jawahar Nagar, Puducherry - PPCC",79.8027,11.9309,TRUE,54,Puducherry,Puducherry
+site_5536,"Civic Center, Bhilai - Bhilai Steel Plant",81.343175,21.185571,FALSE,,Bhilai,Chhattisgarh
+site_5503,"Mangala, Bilaspur - NTPC",82.13737,22.08815,TRUE,65,Bilaspur,Chhattisgarh
+site_5593,"JN Stadium, Shillong - Meghalaya PCB",91.8942571,25.5803419,TRUE,30,Shillong,Meghalaya 
+site_5131,"Lumpyngngad, Shillong - Meghalaya PCB",91.8985,25.5586,TRUE,19,Shillong,Meghalaya 
+site_5586,"HIMUDA Complex Phase-1, Baddi - HPPCB",76.801991,30.943887,TRUE,77,Baddi,Himachal Pradesh
+site_5446,"Naharlagun, Naharlagun - APSPCB",93.679645,27.103358,TRUE,26,Naharlagun,Arunachal Pradesh
+site_5592,"DM College of Science, Imphal - Manipur PCB",93.9423085,24.8207389,TRUE,22,Imphal,Manipur
+site_5591,"Manipur University, Imphal - Manipur PCB",93.9286218,24.7524239,TRUE,31,Imphal,Manipur
+site_5375,"PWD Juction, Kohima - NPCB",94.0989878,25.6635413,TRUE,44,Kohima,Nagaland
+site_254,"Tata Stadium, Jorapokhar - JSPCB",86.41467,23.707909,FALSE,,Jorapokhar,Jharkhand
