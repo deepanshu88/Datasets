@@ -1,0 +1,13 @@
+Topic,Subtopic,PrimaryKeywords,AdditionalKeywords,ExcludeKeywords
+Room,Room Cleanliness,"hotel*, room*","clean*, neat*, dirt*, maintain*, filth*, decen*","staff*, worker*, lady"
+Room,Room Ambience,"hotel*, room*","ambiance, ambience, amenities, view",
+Staff,Staff Courtesy,"staff*, worker*, lady, personne*","friend*, help*, courteo*, polite*, impolite*, decen*, indecen*, arrogan*, welcom*, rude*",
+Room,Wifi,Wifi,,
+Room,Air Conditioning,"ac, ""air condition"", aircon",,
+Room,Room size,"hotel*, room*","space*, spacios*, large*, small*",
+Room,Bed Size,bed,"space*, spacios*, large, ""king-size""",
+Booking,Checkin Process,"""check in"", ""check-in"", ""auto check""",,
+Hotel,Room Television,"tv, television","channel*, chanel*",
+Hotel,Hotel Lobby,lobby,,
+Room,Room Price,"hotel*, room*","price, overpric*, ""value for money"", expensi*, cheap*, budget",
+Hotel,First time experience,"""first time"", ""second time"", ""third time""","visit*, stay*",
